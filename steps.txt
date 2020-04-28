@@ -156,5 +156,5 @@ say advanced is the yii2 project
 
 Referenced links
 	
-	https://github.com/Rajesh-Udutha/Yii2-advanced-server-deployment-steps
+	https://github.com/mickgeek/yii2-advanced-one-domain-config
 	https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps
